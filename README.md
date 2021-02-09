@@ -1,9 +1,8 @@
 # mysql_naics_codes  
 A mysql script to create an industry classification set of tables  
-  
-Snapfix Ltd  
+
 Cathal Greaney  
-cathal@snapfix.com  
+calgear@hotmail.com  
   
 Source Server Type    : MySQL  
 Target Server Type    : MySQL  
